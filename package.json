@@ -1,9 +1,10 @@
 {
   "name": "@arashghamkhari/easylogjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy logging for nodejs with time and the jalaali calendar.",
   "keywords": ["log", "easylog", "jalaali", "jalali"],
   "main": "index.js",
+  "types": "easylogjs.d.ts",
   "scripts": {},
   "repository": {
     "type": "git",
